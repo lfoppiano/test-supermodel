@@ -1,0 +1,6 @@
+[submodule "uom"]
+	path = uom
+	url = git@github.com:lfoppiano/uom-se.git
+[submodule "releasenote"]
+	path = releasenote
+	url = git@github.com:lfoppiano/releasenote.git
